@@ -1,0 +1,6 @@
+[16-Feb-2018 15:35:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests.php on line 212
+[16-Feb-2018 18:02:30 UTC] PHP Warning:  Illegal string offset 'templates' in /app/public/wp-content/plugins/post-loop-ajax/post_loop_ajax.php on line 392
+[16-Feb-2018 18:02:39 UTC] PHP Warning:  Illegal string offset 'templates' in /app/public/wp-content/plugins/post-loop-ajax/post_loop_ajax.php on line 392
+[16-Feb-2018 18:02:49 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /app/public/wp-content/plugins/post-loop-ajax/post_loop_ajax.php on line 326
+[16-Feb-2018 18:02:49 UTC] PHP Warning:  rsort() expects parameter 1 to be array, null given in /app/public/wp-content/plugins/post-loop-ajax/post_loop_ajax.php on line 327
+[16-Feb-2018 18:02:49 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /app/public/wp-content/plugins/post-loop-ajax/post_loop_ajax.php on line 328
